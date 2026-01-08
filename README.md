@@ -55,7 +55,7 @@ AgenticRag/
 
 1. Install Python dependencies:
 ```bash
-pip install fastapi uvicorn langchain-qdrant langchain-community langchain-ollama langgraph qdrant-client flake8
+pip install -r requirements.txt
 ```
 
 2. Install Ollama model:
