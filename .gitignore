@@ -81,3 +81,6 @@ config.json
 secrets.json
 *.key
 *.pem
+ 
+# Ignore moved markdown docs
+mds/
